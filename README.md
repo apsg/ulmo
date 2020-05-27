@@ -1,5 +1,6 @@
 # [ulmo](http://tolkiengateway.net/wiki/Ulmo)
 Python bundle for my raspberry Pi. It steers watering system of my little garden :)
+It runs on Raspberry 3B+.
 
 See it here: http://balkon.gackowski.edu.pl
 
